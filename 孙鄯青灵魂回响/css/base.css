@@ -1,0 +1,12 @@
+	*{ padding:0; margin:0; font-size:12px;}
+	bady,p,ul,ol,dl,{ padding:0; margin:0;}
+	h1,h2,h3,h4,h5,h6,b,strong{ font-weight:normal; font-size:12px;}
+	li{ list-style:none;}
+	a{ text-decoration:none; color:#000;}
+	em,i{ font-style:normal;}
+	.clearfix:after{ display:block; content:''; clear:both}
+	.clearfix:{zoom:1;}
+	.fl{ float:left}
+	.fr{ float:right}
+	.w{ width:930px; margin:0 auto}
+	img{ display:block}

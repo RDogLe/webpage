@@ -1,0 +1,89 @@
+	.wrp{ width:1007px; height:70px; margin:0 auto; border-bottom:2px solid #22ac38; position:relative; font-family:'Microsoft Yahei'}
+	.wrp h1{ position:absolute; left:4px; top:24px}
+	.wrp .sec{ width:462px; height:38px; background:#eee;position:absolute;left:165px; bottom:14px;}
+	.sec a{ display:block; font-size:14px; color:#666; margin-top:10px; margin-left:14px}
+	.sec .icon{ display:block; position:absolute;right:-38px; top:0}
+	.txt a {font-size:14px; color:#666;}
+	.wrp .txt .txt-1{ position:absolute; right:206px; bottom:25px}
+	.wrp .txt .icon-1{ position:absolute; right:267px; bottom:20px}
+	.wrp .txt .txt-2{ position:absolute; right:106px; bottom:25px}
+	.wrp .txt .icon-2{ position:absolute; right:167px; bottom:20px}
+	.wrp .txt .txt-3{ position:absolute; right:8px; bottom:25px}
+	.wrp .txt .icon-3{ position:absolute; right:67px; bottom:20px}
+	.nav{ width:1007px; height:526px; margin:0 auto;}
+	.nav .nav-1{ height:44px; font-family:'Microsoft Yahei'; color:#666; text-align:center; margin-top:13px; margin-right:-5px}
+	.nav-1 .nav-2 a{ display:block; font-size:16px; margin-right:28px;float:left }
+	.nav-1 .nav-2 .first{ color:#22ac38; }
+	.nav-1 .nav-2 .first-1{ display:block; font-size:13px; margin-left:5px ; margin-right:20px; margin-top:2px}
+	.nav-1 .nav-2 .second{ display:block; font-size:13px; margin-right:20px; margin-top:2px} 
+	.nav-1 .nav-2 .second-1{font-size:13px; margin:2px 0 0 0}
+	.nav-1 .nav-2 .hot{ display:inline-block; margin:0 7px}
+	.nav .icon-4{ height:482px; position:relative; }
+	.nav .icon-4 .txt-4{ height:34px; font-size:35px; color:#fff; font-weight:bold; position:absolute; left:20px;bottom:130px}
+	.nav .icon-4 .txt-5{ height:18px; font-size:18px; color:#e9e5e5; position:absolute; left:19px; bottom:85px}
+	.nav .icon-4 .icon-5{ position:absolute;left:0; bottom:20px}
+	.nav .icon-4 .icon-6{ position:absolute; left:113px; bottom:20px}
+	.nav .icon-4 .icon-7{ position:absolute; left:227px; bottom:20px}
+	.nav .icon-4 .icon-8{ position:absolute; left:341px; bottom:20px}
+	.nav .icon-4 .icon-9{ position:absolute; left:455px; bottom:20px}
+	.nav .icon-4 .icon-0{ position:absolute; left:570px; bottom:20px}
+	.nav .icon-4 .icon-11{ position:absolute; left:682px; bottom:20px}
+	.nav .icon-4 .icon-12{ position:absolute; right:113px; bottom:20px}
+	.nav .icon-4 .icon-13{ position:absolute; right:0; bottom:20px}
+	.ontent{ width:1007px; height:3712px; margin:0 auto; background:#f4f4f4; position:relative; font-family:'Microsoft Yahei'; overflow:hidden}
+	.header{ width:907px; height:31px; margin:40px 99px 20px 1px}
+	h2{ font-size:31px; color:#2b2b2b; width:128px; height:31px}
+	.header-1{ margin-top:-15px; margin-left:121px}
+	.header-1 a{ display:block; height:20px; border-right:1px solid #bdbdbd; padding:0 15px; float:left}
+	.header-1 .first{ color:#22ac38}
+	.header-1 .second{ border-right:none}
+	h3{ font-size:23px; color:#333; width:142px; height:22px; float:right;margin-top:-30px}
+	.header-2{ width:1002px; height:288px;}
+	.box{ width:376px; height:288px;margin-left:1px; background:#fff;}
+	.box .word{ display:block; text-align:center}
+	.box-1{width:180px; height:290px;margin-left:6px;}
+	.box-2{ width:180px; height:134px; background:#fff;}
+	.box-2 .word{ display:block; text-align:center; margin-top:14px}
+	.box-3{ width:180px; height:134px; margin-top:20px; background:#fff;}
+	.box-3 .word-1{ display:block; text-align:center; margin-top:14px}
+	.box-one{width:180px; height:290px;margin-left:6px;} 
+	.box-4{ width:180px; height:134px;background:#fff;}
+	.box-4 .word-2{ display:block; text-align:center; margin-top:14px} 
+	.box-5{ width:180px; height:134px; margin-top:20px; background:#fff;}
+	.box-5 .word-3{ display:block; text-align:center; margin-top:14px}
+	.box-6{ width:240px; height:289px; background:#fff;}
+	.box-6 .words{ display:block; line-height:34px}
+	.header-l{ width:907px; height:31px; margin:40px 99px 20px 1px}
+	.header-l h2{ font-size:31px; color:#2b2b2b; width:128px; height:31px}
+	.header-0{ margin-top:-15px; margin-left:121px}
+	.header-0 a{ display:block; height:20px; border-right:1px solid #bdbdbd; padding:0 15px; float:left}
+	.header-0 .first{ color:#22ac38}
+	.header-0 .second{ border-right:none}
+	.header-l h4{ font-size:23px; color:#333; height:22px; float:right;margin-top:-30px; margin-right:-70px}
+	.tv{ width:748px; height:639px;}
+	.tv .tv-1{ width:180px; height:310px; margin-right:6px; margin-left:1px; background:#fff;}
+	.tv-word{ display:block; font-size:14px; color:#333; margin-top:15px; margin-left:10px}
+	.tv-words{ display:block; font-size:13px; color:#999;margin-top:10px; margin-left:10px}
+	.list{ width:240px; height:639px; margin-top:-638px}
+	.words-2{margin-top:20px; margin-left:11px}
+ 	.words-2 a{ font-size:14px;color:#2b2b2b; font-family:'Microsoft Yahei';}
+	.math-1{ color:#46c832}
+	.words-3{ height:20px; background:#eee;margin-top:20px; margin-left:11px}
+	.words-3 a{ font-size:14px;color:#2b2b2b; font-family:'Microsoft Yahei';} 
+	span{color:#aaa;margin-right:11px}
+	i{ display:block; width:12px; height:10px; margin-top:-13px; margin-left:151px}
+	em{ display:block; height:10px; margin-top:-13px; margin-left:175px}
+	h5{ font-size:23px; color:#2b2b2b; margin-top:29px; margin-left:2px}
+	.words-4{ width:240px; height:135px; background:#fff; margin-right:2px}
+	.words-4 p{ font-size:14px; color:#6d6d6d; line-height:14px;margin-left:20px;padding-top:18px;}
+	.header-l h2{font-size:31px; color:#2b2b2b; width:163px; height:21px}
+	.header-l .words-2{margin-left:177px;}
+	.tv-y{ width:180px; height:134px; background:#fff; margin-left:3px; margin-right:10px}
+	.tv-y .tit{ display:block; margin-top:13px; text-align:center}
+	.tv-z{ width:180px; height:134px;margin-left:17px;}
+	.tv-z .tit-1{display:block; margin-top:13px; text-align:center}
+	.footer h2{ margin-top:44px}
+	.footer .picture{ width:622px; height:409px; margin-top:20px; margin-left:3px;}
+	.footer .picture-1{ display:block; width:382px; height:409px; float:right; margin-top:20px}
+	.footer-1{ height:12px; margin-left:307px; margin-top:203px;}
+	.footer-1 a{ display:block; border-right:1px solid #956695; padding: 0 10px; float:left}
